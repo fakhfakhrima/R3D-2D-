@@ -1,0 +1,12 @@
+
+numpy 
+torch 
+torchvision
+scipy
+matplotlib
+pathlib
+pillow
+jason
+os-sys
+scikit-image
+trimesh

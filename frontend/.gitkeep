@@ -1,0 +1,5 @@
+cd frontend
+touch .gitkeep
+git add .gitkeep
+git commit -m "Add .gitkeep to keep frontend directory"
+git push origin main
